@@ -1,4 +1,4 @@
-# Coal_Price_Forcasting
+# Coal_Price_Forecasting
 Forcasting Project
 
 #Project Work Flow
